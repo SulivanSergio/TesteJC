@@ -6,6 +6,7 @@ public static Main(){
 	{
 
 		int run;
+		int area2;
 
 		game = new Game();
 
