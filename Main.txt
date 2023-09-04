@@ -4,7 +4,11 @@ public static Main(){
 	
 	void Start(Game game)
 	{
+<<<<<<< Updated upstream
 		game = new Game();
+=======
+		float 659;
+>>>>>>> Stashed changes
 	} 	
 	
 	void Update()
