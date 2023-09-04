@@ -4,7 +4,7 @@ public static Main(){
 	
 	void Start()
 	{
-		
+		int run;
 	} 	
 	
 	void Update()
@@ -14,7 +14,7 @@ public static Main(){
 	
 	void Get()
 	{
-		int get = 1;
+		
 	}	
 	
 	void Set()
