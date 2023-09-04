@@ -4,7 +4,13 @@ public static Main(){
 	
 	void Start(Game game)
 	{
+
+		int run;
+
 		game = new Game();
+
+		float 659;
+
 	} 	
 	
 	void Update()
@@ -14,7 +20,7 @@ public static Main(){
 	
 	void Get()
 	{
-		int get = 1;
+		
 	}	
 	
 	void Set()
