@@ -1,0 +1,12 @@
+int vida, mana;
+str nome;
+
+void Personagem {
+	vida = 10
+	mana = 10
+	
+}
+
+void Nome {
+	nome = Console.ReadLine()
+}
