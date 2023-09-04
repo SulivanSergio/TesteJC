@@ -1,5 +1,8 @@
 using Microsoft.Framework.XNA
 
+int vida, speed;
+
+Vector3 posicao;
 
 public Personagem(){
 	
