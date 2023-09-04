@@ -9,6 +9,8 @@ public static Main(){
 
 		game = new Game();
 
+		float 659;
+
 	} 	
 	
 	void Update()
