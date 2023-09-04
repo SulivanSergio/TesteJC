@@ -1,0 +1,27 @@
+using Microsoft.Framework.XNA
+
+
+public Personagem(){
+	
+	
+	void Start()
+	{
+		
+	} 	
+	
+	void Update()
+	{
+		
+	}
+	
+	void Get()
+	{
+		
+	}	
+	
+	void Set()
+	{
+		
+	}
+
+}
