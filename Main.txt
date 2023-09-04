@@ -14,7 +14,7 @@ public static Main(){
 	
 	void Get()
 	{
-		
+		int get = 1;
 	}	
 	
 	void Set()
