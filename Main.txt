@@ -4,7 +4,7 @@ public static Main(){
 	
 	void Start()
 	{
-		
+		int start == int stop;
 	} 	
 	
 	void Update()
