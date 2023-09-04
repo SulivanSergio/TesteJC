@@ -2,9 +2,9 @@
 public static Main(){
 	int area;
 	
-	void Start()
+	void Start(Game game)
 	{
-		
+		game = new Game();
 	} 	
 	
 	void Update()
